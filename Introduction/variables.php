@@ -50,8 +50,4 @@
 
  echo " Division 7 / 3 = ".$Division = 7/3 ."<br>";
 
-
-
-    
-
 ?>
