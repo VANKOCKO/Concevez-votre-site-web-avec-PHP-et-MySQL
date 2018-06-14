@@ -14,7 +14,7 @@
 
      $nom_du_visiteur = "mateo21";
      $variable="Mon \"nom\" est mateo21";
-     $variable = "valeur";
+    
      
     /**
       *    Varibale de type int  
@@ -27,7 +27,6 @@
       *    Varibale de type float  
       */
 
-
      $poids = 57.3;
 
     /**
@@ -36,7 +35,6 @@
      
      $je_suis_un_zero = false;
      $je_suis_un_bon_en_php= true;
-
 
 
 /**
@@ -68,7 +66,9 @@
       
      <?php
 
-      echo " Addition 2+ 3 = ".$Addition = 2+3 ."<br>"; 
+  
+
+      echo " Addition 2 + 3 = ".$Addition = 2+3 ."<br>"; 
       
       echo " Soustraction 4 - 3 = ".$Soustraction = 4-3 ."<br>";
 

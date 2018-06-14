@@ -42,12 +42,19 @@
                    </select>
                     
                  </p>
-                 <p>
+       
+                  <!-- input file -->
+                 
+                  <p>
+                    <label for="">Charger fichier</label>
+                    <input type="file" name="file" id="">
+                  </p>
+                  <p>
                      <!-- input submit -->                     
                    <input type="submit" value="Valider">
                  </p>
 
-                  <!-- input file -->
+
          </form>
 
          <script src="" async defer></script>
