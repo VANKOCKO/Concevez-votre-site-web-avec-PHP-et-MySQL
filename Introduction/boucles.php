@@ -15,7 +15,7 @@
         }
 
 /**
-  *    While
+  *    for
   */
 
         $nombre_de_lignes = 1;
@@ -23,5 +23,8 @@
         {
             echo 'Ceci est la ligne n°' . $nombre_de_lignes . '<br />';
         }
+
+
+        
 
 ?>
